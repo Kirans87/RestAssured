@@ -15,7 +15,7 @@ public class RestApiExamplesGet {
 	}
 	
 	@Test
-	public void createEmployee() {
+	public void createEmployee() { 
 		
 		JSONObject obj = new JSONObject();
 		obj.put("name","Kiran");
